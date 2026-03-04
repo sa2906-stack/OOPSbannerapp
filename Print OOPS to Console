@@ -1,0 +1,9 @@
+public class OOPSBannerApp {
+
+    /**
+     * Main Method - Entry point of the application
+     */
+    public static void main(String[] args) {
+        System.out.println("OOPS");
+    }
+}
